@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 頻毘娑羅王詣佛供養經
+#+DATE: 2015-08-30 19:32:40.247117
+#+PROPERTY: JUAN 0
